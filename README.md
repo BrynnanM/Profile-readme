@@ -11,6 +11,6 @@ I like buildiing legos and collecting fugglers, I'm a Information Systems and Te
 ![Roblox](https://img.shields.io/badge/Roblox-red?logo=roblox)
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/BrynnanM)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/Brynnan-Runnels)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/brynnan-runnels)
 
 "To love is to let go"
